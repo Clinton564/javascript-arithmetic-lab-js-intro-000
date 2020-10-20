@@ -20,12 +20,8 @@ function increment(n) {
 }
 
 function decrement(n) {
-  n--;
-  return n;
-}
-
-fuction makeInt(n) {
-  return parseInt(n, 10)
+  n--
+  return n
 }
 
 function preserveDecimal(n) {
