@@ -23,11 +23,3 @@ function decrement(n) {
   n--;
   return n;
 }
-
-fuction makeInt(n) {
-  return parseInt(n, 10)
-}
-
-function preserveDecimal(n) {
-  return parseFloat(n)
-}
